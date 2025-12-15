@@ -15,17 +15,6 @@ O aplicativo oferece um conjunto robusto de recursos para definir e sortear núm
 * **Sorteio Animado:** O resultado da geração do número é exibido com um efeito visual agradável, simulando o sorteio.
 * **Feedback ao Usuário:** Utilização de mensagens de erro para guiar o usuário em caso de inputs inválidos.
 
-## ⚙️ Como Utilizar
-
-Por ser um projeto puramente frontend e estático, a execução é extremamente simples, não necessitando de ambientes Node.js ou servidores:
-
-### 1. Clonando o Repositório
-
-```bash
-git clone https://github.com/devlucasabreu/number-generator
-cd number-generator
-
----
 
 ## 🌐 Deploy Ativo
 
