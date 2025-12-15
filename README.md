@@ -1,3 +1,7 @@
+# 🔢 Gerador/Sorteador de Números
+
+Um aplicativo web simples e eficiente para gerar números aleatórios dentro de um intervalo definido. Ideal para sorteios, rifas ou decisões rápidas baseadas em números.
+
 ## 🚀 Tecnologias Utilizadas
 
 Este projeto foi desenvolvido utilizando as tecnologias fundamentais da web:
