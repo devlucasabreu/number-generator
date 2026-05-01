@@ -1,5 +1,9 @@
 # 🔢 Gerador/Sorteador de Números
 
+<p align="center">
+  <a href="https://devlucasabreu-number-generator.netlify.app/"><strong>Acessar o Projeto Online</strong></a>
+</p>
+
 Um aplicativo web simples e eficiente para gerar números aleatórios dentro de um intervalo definido. Ideal para sorteios, rifas ou decisões rápidas baseadas em números.
 
 ## 🚀 Tecnologias Utilizadas
@@ -19,9 +23,3 @@ O aplicativo oferece um conjunto robusto de recursos para definir e sortear núm
 * **Sorteio Animado:** O resultado da geração do número é exibido com um efeito visual agradável, simulando o sorteio.
 * **Feedback ao Usuário:** Utilização de mensagens de erro para guiar o usuário em caso de inputs inválidos.
 
-
-## 🌐 Deploy Ativo
-
-O projeto está hospedado e acessível publicamente no link abaixo
-
-➡️ **LINK DE ACESSO:** [devlucasabreu-number-generator](https://devlucasabreu-number-generator.netlify.app/)
